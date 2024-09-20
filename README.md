@@ -23,9 +23,3 @@ I’m currently focusing on:
 - **Frontend Performance**: Optimizing modern web applications for maximum performance
 
 ---
-
-## 📈 GitHub Stats
-
-![Tommy Gilley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomGilley-software&show_icons=true&theme=radical)
-
----
