@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Tommy Gilley, just call me Tom.
 
-<!--
-**tomGilley-software/tomGilley-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Senior Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m Tommy Gilley, a Senior Software Engineer with over a decade of experience in building scalable, high-performance applications. I specialize in **Full-Stack Development**, **Cloud Computing**, and **DevOps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, TypeScript, Python, Kotlin, Java
+- **Frontend**: React.js, Next.js, HTML5, CSS3, SASS
+- **Backend**: Node.js, Django, Spring Boot, Kotlin
+- **Databases**: MongoDB, PostgreSQL, MySQL, DynamoDB
+- **Cloud**: AWS (Lambda, EC2, S3, RDS), GCP, Azure
+- **DevOps**: Docker, Kubernetes, Jenkins, Terraform, GitHub Actions
+
+---
+
+## 🔭 Current Focus
+I’m currently focusing on:
+- **Distributed Systems and microservices**: Building highly scalable microservices architectures
+- **Cloud Technologies**: Working with serverless architectures and containerized environments
+- **Frontend Performance**: Optimizing modern web applications for maximum performance
+
+---
+
+## 📈 GitHub Stats
+
+![Tommy Gilley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomGilley-software&show_icons=true&theme=radical)
+
+---
