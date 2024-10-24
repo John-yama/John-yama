@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tommy Gilley, just call me Tom.
+# 👋 Hi, I'm John Yamamoto.
 
 ### 🚀 Senior Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
