@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Software Engineer | Full-Stack Developer | Cloud Enthusiast
 
-Welcome to my GitHub profile! I’m Tommy Gilley, a Senior Software Engineer with over a decade of experience in building scalable, high-performance applications. I specialize in **Full-Stack Development**, **Cloud Computing**, and **DevOps**.
+Welcome to my GitHub profile! I’m John Yamamoto, a Senior Software Engineer with over a decade of experience in building scalable, high-performance applications. I specialize in **Full-Stack Development**, **Cloud Computing**, and **DevOps**.
 
 ---
 
